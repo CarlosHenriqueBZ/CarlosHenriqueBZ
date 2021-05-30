@@ -1,5 +1,5 @@
 <h1 align="center">Oi, Eu sou o Carlos Henrique 😅</h1>
-<h3 align="center">Um estudante de Desenvolvimento Front-End 👨🏽‍💻 Atualmente com 19 anos e cursando Análise e desenvolvimento de sistemas!</h3>
+<h3 align="center">Um estudante de Desenvolvimento Front-End 👨🏽‍💻 Atualmente com 20 anos e cursando Análise e desenvolvimento de sistemas!</h3>
 
 - 🔭 Estou aplicando atualmente meus conhecimentos na [DeltaFive - Competitive](http://deltafive.rf.gd/?i=1#)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 Meu portifólio [https://github.com/CarlosHenriqueBZ](https://github.com/CarlosHenriqueBZ)
 
-- 💬 Me pergunte sobre **Front-End**
+- 💬 Apaixonado por tecnologia *:)*
 
 - 📫 Como me achar **carlosrickdf@gmail.com**
 
