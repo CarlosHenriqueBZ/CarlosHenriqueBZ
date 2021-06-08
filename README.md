@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Carlos Henrique 😅</h1>
 <h3 align="center">Front-End Developer 👨🏽‍💻 Studying systems analysis and development!</h3>
 
-- 🔭 I’m currently working at [DeltaFive](<a href="https://deltafive.netlify.app/" target="blank">)
+- 🔭 I’m currently working at [DeltaFive](https://deltafive.netlify.app/)
 
 - 💓 tech lover *:)*
 
