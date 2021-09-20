@@ -7,7 +7,7 @@
 
 - 📫 **chbezerra25@gmail.com**
 
-- 💻 **Vue, ReactJS, TypeScript**
+- 💻 **Java, AngularJS, TypeScript**
 
 <h3 align="left">Linkedin</h3>
 <p align="left">
