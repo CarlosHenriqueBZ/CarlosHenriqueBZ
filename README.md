@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Carlos Henrique 😅</h1>
 <h3 align="center">Front-End Developer 👨🏽‍💻 Studying systems analysis and development!</h3>
 
-- 🔭 I’m currently working at [DeltaFive](https://deltafive.netlify.app/)
+- 🔭 I’m currently working at [Senac](https://www.senac.br/)
 
 - 💓 tech lover *:)*
 
 - 📫 **chbezerra25@gmail.com**
 
-- 💻 **Java, AngularJS, TypeScript**
+- 💻 **Java, Spring, React.js**
 
 <h3 align="left">Linkedin</h3>
 <p align="left">
