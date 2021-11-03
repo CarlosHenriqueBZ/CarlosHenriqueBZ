@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Carlos Henrique 😅</h1>
-<h3 align="center">Front-End Developer 👨🏽‍💻 Studying systems analysis and development!</h3>
+<h3 align="center">Future Full Stack Developer 👨🏽‍💻 Studying systems analysis and development!</h3>
 
 - 🔭 I’m currently working at [Senac](https://www.senac.br/)
 
