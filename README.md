@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/carlos-henrique-185ba6201//"><i>Carlos Henrique </i></a></h1>
-  <p align="center">Desenvolvedor FullStack no <a href="https://moneycloud.com.br/"><i>Money Cloud ☁</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/c/wavecompany"><i>YouTube</i></a><span></span>
+  <p align="center">Desenvolvedor FrontEnd na <a href="https://moneycloud.com.br/"><i>Money Cloud ☁</i></a> e compartilho meu aprendizado no meu canal no <a href="https://www.youtube.com/c/wavecompany"><i>YouTube</i></a><span></span>
 </div>
 
 <div align="center">
