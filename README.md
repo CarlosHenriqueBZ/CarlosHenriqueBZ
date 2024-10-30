@@ -9,8 +9,8 @@
 ```javascript
 const carlos = {
     pronouns: "he" | "him",
-    code: [Javascript, Node, Express, Fastify, React, Next, Vue, HTML, CSS],
-    askMeAbout: ["startup", "innovation", "hacking", "tech", "crypto", "music", "coffee"],
+    code: [Javascript, Node, Express, Fastify, React, Next, Vue, Python, Yolo],
+    askMeAbout: ["startup", "soccer", "hacking", "tech", "crypto", "music", "coffee"],
     }
 };
 ```
