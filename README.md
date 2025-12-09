@@ -2,7 +2,7 @@
 > carloshenrique
 ```
 
-[![Linkedin: carloshenriquebz](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://www.linkedin.com/carlosbzcr)
+[![Linkedin: carloshenriquebz](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://br.linkedin.com/in/carlosbzcr)
 
 ### aboutMe.js
 
